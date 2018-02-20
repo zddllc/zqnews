@@ -31,6 +31,6 @@ _ReSharper*/
 #Nuget packages folder
 packages/
 #Ignore Python
-.pyc
+*.pyc
 #Ignore Pycharm Setting
-.xml
+*.xml
